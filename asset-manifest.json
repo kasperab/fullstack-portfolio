@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/fullstack-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/fullstack-portfolio/static/js/main.fbc4125c.js",
+    "main.css": "/fullstack-portfolio/static/css/main.4b6999fd.css",
+    "main.js": "/fullstack-portfolio/static/js/main.2fdefe03.js",
     "static/js/453.6264690d.chunk.js": "/fullstack-portfolio/static/js/453.6264690d.chunk.js",
+    "static/media/cakery-newsletter.png": "/fullstack-portfolio/static/media/cakery-newsletter.0d7f7b8910f7b8941f86.png",
+    "static/media/cakery-products.png": "/fullstack-portfolio/static/media/cakery-products.869fda8592a411ec3a71.png",
+    "static/media/cakery-index.png": "/fullstack-portfolio/static/media/cakery-index.a3010730d8a2a179a3bc.png",
+    "static/media/cakery-mobile.png": "/fullstack-portfolio/static/media/cakery-mobile.3dc48311e610d65ac65a.png",
+    "static/media/cakery-contact.png": "/fullstack-portfolio/static/media/cakery-contact.2a108fc051e90ce0c90f.png",
+    "static/media/todolist-edit.png": "/fullstack-portfolio/static/media/todolist-edit.d0451c3702835522f200.png",
+    "static/media/todolist-json.png": "/fullstack-portfolio/static/media/todolist-json.13fd219e71504b0f3cc9.png",
+    "static/media/cakery.png": "/fullstack-portfolio/static/media/cakery.13cede9f63c254c1c7bc.png",
+    "static/media/todolist-view.png": "/fullstack-portfolio/static/media/todolist-view.a03d5537498ddd2192e6.png",
+    "static/media/todolist.png": "/fullstack-portfolio/static/media/todolist.92d0bc4ba213240edced.png",
+    "static/media/todolist-add.png": "/fullstack-portfolio/static/media/todolist-add.9a44a20d98acee116cf7.png",
+    "static/media/github-brands-solid-full.svg": "/fullstack-portfolio/static/media/github-brands-solid-full.e110a4fa9dea6ae02a0fc31e13276af1.svg",
+    "static/media/linkedin-brands-solid-full.svg": "/fullstack-portfolio/static/media/linkedin-brands-solid-full.effcad7ab562778a5f15ef37cf75f81d.svg",
     "index.html": "/fullstack-portfolio/index.html",
-    "main.f855e6bc.css.map": "/fullstack-portfolio/static/css/main.f855e6bc.css.map",
-    "main.fbc4125c.js.map": "/fullstack-portfolio/static/js/main.fbc4125c.js.map",
+    "main.4b6999fd.css.map": "/fullstack-portfolio/static/css/main.4b6999fd.css.map",
+    "main.2fdefe03.js.map": "/fullstack-portfolio/static/js/main.2fdefe03.js.map",
     "453.6264690d.chunk.js.map": "/fullstack-portfolio/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fbc4125c.js"
+    "static/css/main.4b6999fd.css",
+    "static/js/main.2fdefe03.js"
   ]
 }
