@@ -11,9 +11,9 @@ import linkedin from "./img/linkedin-brands-solid-full.svg"
 function App() {
   return (
     <BrowserRouter>
-      <div className="p-3 m-auto" style={{ maxWidth: 800 }}>
+      <div className="m-auto" style={{ maxWidth: 800 }}>
         <header className="p-3 text-center text-white bg-secondary">
-          <Link to="/" className="text-white">
+          <Link to="/fullstack-portfolio" className="text-white">
             <h1>Kasper Andersson Brandt</h1>
           </Link>
           <h2>Fullstack Programmer</h2>
@@ -21,7 +21,7 @@ function App() {
 
         <main className="p-3">
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/fullstack-portfolio" element={<Home />} />
             <Route path="/cakery" element={<Cakery />} />
             <Route path="/todolist" element={<ToDoList />} />
             <Route path="/*" element={<NoPage />} />
