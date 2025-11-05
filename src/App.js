@@ -2,7 +2,9 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
-import NoPage from './pages/NoPage';
+import NoPage from "./pages/NoPage";
+import github from "./img/github-brands-solid-full.svg"
+import linkedin from "./img/linkedin-brands-solid-full.svg"
 
 function App() {
   return (
@@ -22,7 +24,14 @@ function App() {
           </Routes>
         </main>
 
-        <footer className="p-3 text-right text-white bg-secondary"></footer>
+        <footer className="p-3 text-end bg-secondary fs-1">
+          <a href="https://github.com/kasperab" target="_blank">
+            <img src={github} alt="GitHub"/>
+          </a>
+          <a href="https://linkedin.com/in/kasperab" target="_blank">
+            <img src={linkedin} alt="LinkedIn"/>
+          </a>
+        </footer>
       </div>
     </BrowserRouter>
   );
