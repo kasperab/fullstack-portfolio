@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fullstack-portfolio/static/css/main.4b6999fd.css",
-    "main.js": "/fullstack-portfolio/static/js/main.2fdefe03.js",
+    "main.js": "/fullstack-portfolio/static/js/main.2ce88c45.js",
     "static/js/453.6264690d.chunk.js": "/fullstack-portfolio/static/js/453.6264690d.chunk.js",
     "static/media/cakery-newsletter.png": "/fullstack-portfolio/static/media/cakery-newsletter.0d7f7b8910f7b8941f86.png",
     "static/media/cakery-products.png": "/fullstack-portfolio/static/media/cakery-products.869fda8592a411ec3a71.png",
@@ -18,11 +18,11 @@
     "static/media/linkedin-brands-solid-full.svg": "/fullstack-portfolio/static/media/linkedin-brands-solid-full.effcad7ab562778a5f15ef37cf75f81d.svg",
     "index.html": "/fullstack-portfolio/index.html",
     "main.4b6999fd.css.map": "/fullstack-portfolio/static/css/main.4b6999fd.css.map",
-    "main.2fdefe03.js.map": "/fullstack-portfolio/static/js/main.2fdefe03.js.map",
+    "main.2ce88c45.js.map": "/fullstack-portfolio/static/js/main.2ce88c45.js.map",
     "453.6264690d.chunk.js.map": "/fullstack-portfolio/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b6999fd.css",
-    "static/js/main.2fdefe03.js"
+    "static/js/main.2ce88c45.js"
   ]
 }
