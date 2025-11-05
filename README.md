@@ -1,0 +1,2 @@
+# Fullstack Portfolio
+Portfolio website showcasing some different projects. Made using React and Bootstrap. View at [kasperab.github.io/fullstack-portfolio](https://kasperab.github.io/fullstack-portfolio)
