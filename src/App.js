@@ -2,6 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
+import Tracking from "./pages/Tracking";
 import Cakery from "./pages/Cakery";
 import ToDoList from "./pages/ToDoList";
 import NoPage from "./pages/NoPage";
@@ -22,6 +23,7 @@ function App() {
         <main className="p-3">
           <Routes>
             <Route path="/fullstack-portfolio" element={<Home />} />
+            <Route path="/tracking" element={<Tracking />} />
             <Route path="/cakery" element={<Cakery />} />
             <Route path="/todolist" element={<ToDoList />} />
             <Route path="/*" element={<NoPage />} />

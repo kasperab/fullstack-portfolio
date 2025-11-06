@@ -1,10 +1,15 @@
 import { Link } from "react-router-dom";
+import tracking from "./img/tracking.png";
 import cakery from "./img/cakery.png";
 import todolist from "./img/todolist.png";
 
 export default function Home() {
     return (
         <div>
+            <Link to="/tracking">
+                <img src={tracking} alt="Package Tracking" className="w-100" />
+            </Link>
+            <br /><br />
             <Link to="/cakery">
                 <img src={cakery} alt="Cakery" className="w-100" />
             </Link>
