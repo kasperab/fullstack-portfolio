@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/fullstack-portfolio/static/css/main.4b6999fd.css",
-    "main.js": "/fullstack-portfolio/static/js/main.2ce88c45.js",
+    "main.js": "/fullstack-portfolio/static/js/main.04421ff7.js",
     "static/js/453.6264690d.chunk.js": "/fullstack-portfolio/static/js/453.6264690d.chunk.js",
     "static/media/cakery-newsletter.png": "/fullstack-portfolio/static/media/cakery-newsletter.0d7f7b8910f7b8941f86.png",
     "static/media/cakery-products.png": "/fullstack-portfolio/static/media/cakery-products.869fda8592a411ec3a71.png",
     "static/media/cakery-index.png": "/fullstack-portfolio/static/media/cakery-index.a3010730d8a2a179a3bc.png",
     "static/media/cakery-mobile.png": "/fullstack-portfolio/static/media/cakery-mobile.3dc48311e610d65ac65a.png",
+    "static/media/tracking-english.png": "/fullstack-portfolio/static/media/tracking-english.c04fc8a8686f68161a09.png",
+    "static/media/tracking-swedish.png": "/fullstack-portfolio/static/media/tracking-swedish.afa0f637c16e7fa83332.png",
     "static/media/cakery-contact.png": "/fullstack-portfolio/static/media/cakery-contact.2a108fc051e90ce0c90f.png",
+    "static/media/tracking.png": "/fullstack-portfolio/static/media/tracking.ed9a8c221a7c04b398c1.png",
     "static/media/todolist-edit.png": "/fullstack-portfolio/static/media/todolist-edit.d0451c3702835522f200.png",
     "static/media/todolist-json.png": "/fullstack-portfolio/static/media/todolist-json.13fd219e71504b0f3cc9.png",
     "static/media/cakery.png": "/fullstack-portfolio/static/media/cakery.13cede9f63c254c1c7bc.png",
@@ -18,11 +21,11 @@
     "static/media/linkedin-brands-solid-full.svg": "/fullstack-portfolio/static/media/linkedin-brands-solid-full.effcad7ab562778a5f15ef37cf75f81d.svg",
     "index.html": "/fullstack-portfolio/index.html",
     "main.4b6999fd.css.map": "/fullstack-portfolio/static/css/main.4b6999fd.css.map",
-    "main.2ce88c45.js.map": "/fullstack-portfolio/static/js/main.2ce88c45.js.map",
+    "main.04421ff7.js.map": "/fullstack-portfolio/static/js/main.04421ff7.js.map",
     "453.6264690d.chunk.js.map": "/fullstack-portfolio/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b6999fd.css",
-    "static/js/main.2ce88c45.js"
+    "static/js/main.04421ff7.js"
   ]
 }
